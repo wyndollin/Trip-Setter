@@ -1,2 +1,2 @@
 # Trip-Setter
-Web - app that personalizes your trip.
+AI-powered app that gives you all the main information for planning a trip.
